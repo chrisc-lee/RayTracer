@@ -1,5 +1,3 @@
-// EECS 3431_Assignment_3.cpp : This file contains the 'main' function. Program execution begins and ends there.
-
 #include <raytracer.h>
 // list of spheres created from text file
 std::vector <Sphere> spheres;
